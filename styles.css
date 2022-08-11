@@ -1,0 +1,29 @@
+.logo{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.bg-yellow{
+    background-color: #ffe600;
+}
+.foto-producto{
+    width:100%;
+    border-bottom: 1px solid black
+}
+.producto{
+    width: 200px;
+    border: 2px solid black;
+    margin-left: 20%;
+    margin-top: 20px;
+
+}
+.descripcion-producto{
+    margin-left: 20%;
+}
+.precio{
+    color: rgb(34, 220, 17);
+    font-size: larger;
+}
+.titulo-producto{
+    font-size: large;
+    font-weight: bold;
+}
